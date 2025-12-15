@@ -2,7 +2,7 @@ local wezterm = require 'wezterm'
 local config = wezterm.config_builder()
 
 config = {
-    default_domain = "WSL:Ubuntu-25.10",
+    --default_domain = "WSL:Ubuntu-25.10",
     automatically_reload_config = true,
     -- enable_tab_bar = false,
     window_close_confirmation = "NeverPrompt",
