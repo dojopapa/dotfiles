@@ -8,6 +8,7 @@ This repository contains configuration files and scripts used to customize my de
 - **Main Terminal**: [WezTerm](https://wezterm.org/)
 - **Main Shell**: [Fish](https://fishshell.com/)
 - **Shell prompt**: [Starship](https://starship.rs/)
+- **Console file manager**: [Ranger](https://github.com/ranger/ranger) (w/ [highlight](https://gitlab.com/saalen/highlight) and [devicons](https://github.com/alexanderjeurissen/ranger_devicons))
 - **ls command**: [LSD](https://github.com/lsd-rs/lsd)
 - **Color Theme**: Based on [Nord color palette](https://www.nordtheme.com/docs/colors-and-palettes).
 - **Terminal font**: [JetBrainsMono Nerd](https://www.nerdfonts.com/font-downloads)
