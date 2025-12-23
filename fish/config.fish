@@ -11,6 +11,12 @@ if status is-interactive
     alias lla='lsd -la'
     alias lt='lsd --tree'
 
+    # Other useful aliases
+    alias r='ranger'
+
+    # Set default editor
+    set -gx EDITOR "nvim"
+
     # Initialize Starship
     set -gx STARSHIP_CONFIG "$HOME/.config/starship/starship.toml"
     starship init fish | source
