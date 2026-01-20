@@ -42,6 +42,8 @@
 | Rename                                        | `cw`                               |
 | Bulk rename                                   | `:bulkrename`                      |
 |                                               |                                    |
+| Yank filename (copy filename to clipboard)    | `yf` (custom )                     |
+|                                               |                                    |
 | :arrow_forward: **Set file access right**     |                                    |
 | Set access rights (chmod)                     | `+`                                |
 | Remove file mode for user (chmod)             | `-`                                |
